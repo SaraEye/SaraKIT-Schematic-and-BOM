@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+C:\Users\rafal\Desktop\SaraKit v11 bez opisu biura projektowego\SaraKit_CameraHub_v11\out\[ASSEMBLY] SaraKit_CameraHub-v1.1 (2023-07-04)\Pick Place\[P&P] SaraKit_CameraHub [Standard] [v1.1] (2023-07-04 18-40).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       04.07.23
+Time:       18:40
+Revision:   Not in VersionControl
+Variant:    Standard
+Units used: mm
+
+"Designator","Description","08 Parameter 1","07 Package","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"J3","SMT 1x15 1mm Bottom Contact Right Angle 200VAC 1A","1x15","","1-84952-5","TopLayer","TE_1-84952-5","19.5000","14.9000","0"
+"J2","SMT 1x15 1mm Bottom Contact Right Angle 200VAC 1A","1x15","","1-84952-5","BottomLayer","TE_1-84952-5","19.5000","14.9000","180"
+"R6","SMT 0402c 10k 1% 62.5mW 100ppm/K 50V","10k","0402c","RC0402FR-0710KL","TopLayer","RESC1005X40L","31.5000","5.4000","90"
+"R5","SMT 0402c 10k 1% 62.5mW 100ppm/K 50V","10k","0402c","RC0402FR-0710KL","TopLayer","RESC1005X40L","30.5250","5.4000","90"
+"U1","SMT LGA-16 ACCELEROMETER 1.71V - 3.6V +/- 16g","ACCELEROMETER","LGA-16","LIS3DH","TopLayer","LGA16R50P5X3_300X300X100","34.3000","6.4250","90"
+"C3","SMT 0402c 1uF 16V 10% X5R 11.9MHz 85'C","1uF","0402c","CL05A105KO5NNNC","TopLayer","CAPC1005X60L","33.5500","8.6500","180"
+"C2","SMT 0402c 1uF 16V 10% X5R 11.9MHz 85'C","1uF","0402c","CL05A105KO5NNNC","TopLayer","CAPC1005X60L","33.6000","4.0498","180"
+"C1","SMT 0805c 22uF 16V 20% X5R 1.6MHz 85'C","22uF","0805c","CL21A226MOQNNNE","TopLayer","CAPC2013X145L","28.2250","5.0000","90"
+"R4","SMT 0402c 0R 5% 62.5mW 200ppm/K 50V","0R","0402c","RC0402JR-070RL","TopLayer","RESC1005X40L","30.4500","10.8000","90"
+"R1","SMT 0402c 0R 5% 62.5mW 200ppm/K 50V","0R","0402c","RC0402JR-070RL","TopLayer","RESC1005X40L","31.4500","10.8000","90"
+"R3","SMT 0402c 0R 5% 62.5mW 200ppm/K 50V","0R","0402c","RC0402JR-070RL","TopLayer","RESC1005X40L","29.4500","10.8000","90"
+"R2","SMT 0402c 0R 5% 62.5mW 200ppm/K 50V","0R","0402c","RC0402JR-070RL","TopLayer","RESC1005X40L","32.4500","10.8000","90"
+"J1","SMT 2x20 0.35mm Straight 50V 0.3A","2x20","","5046184012","TopLayer","MOLEX_5046184012","19.5000","5.0000","180"

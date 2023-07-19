@@ -1,0 +1,10 @@
+Output: STEP
+Type  : ExportSTEP
+From  : Variant [Standard] of PCB Document [pcb.PcbDoc]
+   Generated File[[STEP] SaraKit_CameraHub [Standard] [v1.1] (2023-07-04 18-41).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:41:08 On 04.07.2023

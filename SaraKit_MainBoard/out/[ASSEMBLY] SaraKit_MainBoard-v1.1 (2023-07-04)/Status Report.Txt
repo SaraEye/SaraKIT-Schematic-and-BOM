@@ -1,0 +1,10 @@
+Output: eBOM
+Type  : BOM
+From  : Variant [Standard] of Project [SaraKit_MainBoard.PrjPcb]
+   Generated File[[eBOM] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-44).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:45:00 On 04.07.2023

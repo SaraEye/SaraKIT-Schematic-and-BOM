@@ -1,0 +1,10 @@
+Output: eBOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [SaraKit_FlexHubConnector.PrjPcb]
+   Generated File[[eBOM] SaraKit_FlexHubConnector [[No Variations]] [v1.0] (2023-07-04 18-42).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:42:34 On 04.07.2023

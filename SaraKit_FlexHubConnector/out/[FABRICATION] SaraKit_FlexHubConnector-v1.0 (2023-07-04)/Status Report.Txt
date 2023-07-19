@@ -1,0 +1,10 @@
+Output: STACK
+Type  : Report Board Stack
+From  : PCB Document [pcb.PcbDoc]
+   Generated File[[STACK] SaraKit_FlexHubConnector [[No Variations]] [v1.0] (2023-07-04 18-42).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:43:10 On 04.07.2023

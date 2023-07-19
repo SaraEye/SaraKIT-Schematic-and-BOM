@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: [GBR-ASSEMBLY] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-44).GBR   04.07.2023  18:44:56
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.GBL                L4                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Fab Notes                               
+.GM2                Designer Notes                          
+.GM3                Outline                                 
+.GM5                Top Testpads                            
+.GM6                Bottom Testpads                         
+.GM11               Top Component Outline                   
+.GM12               Bottom Component Outline                
+.GM13               Top 3D Body                             
+.GM14               Bottom 3D Body                          
+.GM15               Top Courtyard                           
+.GM16               Bottom Courtyard                        
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+------------------------------------------------------------------------------------------

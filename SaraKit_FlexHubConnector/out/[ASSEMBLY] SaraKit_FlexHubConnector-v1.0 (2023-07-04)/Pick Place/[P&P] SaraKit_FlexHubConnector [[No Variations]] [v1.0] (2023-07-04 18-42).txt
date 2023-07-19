@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\rafal\Desktop\SaraKit v11 bez opisu biura projektowego\SaraKit_FlexHubConnector\out\[ASSEMBLY] SaraKit_FlexHubConnector-v1.0 (2023-07-04)\Pick Place\[P&P] SaraKit_FlexHubConnector [[No Variations]] [v1.0] (2023-07-04 18-42).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04.07.23
+Time:       18:42
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Description                         "08 Parameter 1" "07 Package" Comment    Layer       Footprint        Center-X(mm) Center-Y(mm) Rotation 
+J2         "SMT 2x20 0.35mm Straight 50V 0.3A" 2x20             ""           5046224012 BottomLayer MOLEX_5046224012 4.7500       3.0000       0        
+J1         "SMT 2x20 0.35mm Straight 50V 0.3A" 2x20             ""           5046224012 TopLayer    MOLEX_5046224012 4.7500       167.5000     0        

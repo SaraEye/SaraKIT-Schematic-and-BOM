@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: pcb.PcbDoc   04.07.2023  18:40:14
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII Plated RoundHoles File : [NCD] SaraKit_CameraHub [Standard] [v1.1] (2023-07-04 18-40)-Plated.TXT
+ASCII Non-Plated RoundHoles File : [NCD] SaraKit_CameraHub [Standard] [v1.1] (2023-07-04 18-40)-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             87        PTH        237.18mm (9.34inch)
+T2      2.7mm (106mil)          +/-0.1mm (4mil)                   Round             2         NPTH       33.50mm (1.32inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              89
+
+Total Processing Time (hh:mm:ss) : 00:00:00

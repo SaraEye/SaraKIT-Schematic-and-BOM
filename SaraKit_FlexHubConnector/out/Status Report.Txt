@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 18:42:35 On 04.07.2023
+
+Output: PARASOLID
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [pcb.PcbDoc]
+   Generated File[[PARASOLID] SaraKit_FlexHubConnector [[No Variations]] [v1.0] (2023-07-04 18-42).x_t]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:42:35 On 04.07.2023

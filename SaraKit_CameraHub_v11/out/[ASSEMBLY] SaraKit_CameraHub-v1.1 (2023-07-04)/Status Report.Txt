@@ -1,0 +1,10 @@
+Output: eBOM
+Type  : BOM
+From  : Variant [Standard] of Project [SaraKit_CameraHub.PrjPcb]
+   Generated File[[eBOM] SaraKit_CameraHub [Standard] [v1.1] (2023-07-04 18-40).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:41:01 On 04.07.2023

@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\rafal\Desktop\SaraKit v11 bez opisu biura projektowego\SaraKit_MainBoard\pcb\pcb.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=[ncd] sarakit_mainboard [standard] [v1.1] (2023-07-04 18-45)-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=[ncd] sarakit_mainboard [standard] [v1.1] (2023-07-04 18-45)-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=[ncd] sarakit_mainboard [standard] [v1.1] (2023-07-04 18-45)-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

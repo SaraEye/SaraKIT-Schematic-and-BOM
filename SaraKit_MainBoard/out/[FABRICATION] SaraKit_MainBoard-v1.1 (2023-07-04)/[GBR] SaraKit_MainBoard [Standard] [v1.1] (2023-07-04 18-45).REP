@@ -1,0 +1,596 @@
+*************************************************************
+FileName = [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GBR
+AutoAperture = True
+*************************************************************
+Generating : L3
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).G2
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D67
+    D68
+    D78
+    D80
+    D82
+    D88
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GBL
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D19
+    D20
+    D21
+    D25
+    D29
+    D67
+    D68
+    D70
+    D71
+    D72
+    D73
+    D75
+    D76
+    D78
+    D81
+    D82
+    D84
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GPB
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D25
+    D29
+    D67
+    D68
+    D70
+    D71
+    D72
+    D73
+    D75
+    D86
+    D87
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D25
+    D29
+    D81
+    D91
+    D92
+    D93
+    D94
+    D97
+    D99
+    D100
+    D103
+    D106
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D13
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D25
+    D29
+    D62
+    D67
+    D68
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D78
+    D82
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D105
+*************************************************************
+
+*************************************************************
+Generating : Fab Notes
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GM1
+
+    Adding Layer      : Fab Notes
+
+
+Used DCodes :
+    D10
+    D13
+    D81
+    D84
+    D85
+    D107
+    D108
+    D109
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GM3
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D107
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D14
+    D107
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D14
+    D107
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GPT
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D70
+    D71
+    D72
+    D73
+    D75
+    D86
+    D87
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D70
+    D71
+    D72
+    D73
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).G1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D67
+    D68
+    D70
+    D71
+    D73
+    D81
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : [GBR] SaraKit_MainBoard [Standard] [v1.1] (2023-07-04 18-45).GD1
+
+    Adding Drill Pair : L1-L4
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D85
+    D108
+    D112
+    D113
+    D114
+*************************************************************
+

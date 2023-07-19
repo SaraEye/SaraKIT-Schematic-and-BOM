@@ -1,0 +1,10 @@
+Output: STACK
+Type  : Report Board Stack
+From  : PCB Document [pcb.PcbDoc]
+   Generated File[[STACK] SaraKit_CameraHub [Standard] [v1.1] (2023-07-04 18-40).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:40:46 On 04.07.2023
